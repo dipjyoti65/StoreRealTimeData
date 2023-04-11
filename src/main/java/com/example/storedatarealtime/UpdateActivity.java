@@ -148,6 +148,7 @@ public class UpdateActivity extends AppCompatActivity {
             @Override
             public void onFailure(@NonNull Exception e) {
                 Toast.makeText(UpdateActivity.this,e.getMessage().toString(), Toast.LENGTH_SHORT).show();
+                Toast.makeText(UpdateActivity.this, "complete", Toast.LENGTH_SHORT).show();
             }
         });
     }
