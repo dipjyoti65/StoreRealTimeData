@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397119877668",
+    "firebase_url": "https://store-data-realtime-156f8-default-rtdb.firebaseio.com",
+    "project_id": "store-data-realtime-156f8",
+    "storage_bucket": "store-data-realtime-156f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397119877668:android:34117495400aabc424deb1",
+        "android_client_info": {
+          "package_name": "com.example.storedatarealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397119877668-2atcvbnlkolq14e6mqqchf327gvn6oot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPC57pc3XWJtkozG8lMKQAQj1JXhROjk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397119877668-2atcvbnlkolq14e6mqqchf327gvn6oot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
